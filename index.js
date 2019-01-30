@@ -1,3 +1,4 @@
+/* eslint-disable no-console */
 const enron = require('./lib/connect');
 
 enron()
